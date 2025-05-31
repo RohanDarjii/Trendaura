@@ -69,42 +69,41 @@ Tendora is a full-stack e-commerce clothing website developed using Django. It o
 ## 🧰 Setup Instructions
 
 1. Clone the repository:
-   ```bash
+ 
    git clone https://github.com/your-username/tendora.git
    cd tendora
-````
+
 
 2. Create and activate a virtual environment:
 
-   ```bash
+
    python -m venv venv
    source venv/bin/activate  # On Windows: venv\Scripts\activate
-   ```
+
 
 3. Install dependencies:
 
-   ```bash
+  
    pip install -r requirements.txt
-   ```
+ 
 
 4. Run migrations:
 
-   ```bash
+ 
    python manage.py makemigrations
    python manage.py migrate
-   ```
+
 
 5. Create a superuser:
 
-   ```bash
+ 
    python manage.py createsuperuser
-   ```
+  
 
 6. Start the server:
 
-   ```bash
    python manage.py runserver
-   ```
+
 
 7. Visit `http://127.0.0.1:8000/` to use the app.
 
@@ -112,7 +111,6 @@ Tendora is a full-stack e-commerce clothing website developed using Django. It o
 
 ## 📂 Folder Structure
 
-```
 tendora/
 ├── accounts/
 ├── products/
@@ -121,7 +119,7 @@ tendora/
 ├── media/
 ├── db.sqlite3
 └── manage.py
-```
+
 
 ---
 
@@ -135,9 +133,5 @@ This project is licensed under the MIT License.
 
 For any questions or contributions, feel free to open an issue or submit a pull request.
 
-```
-
-Let me know if you'd like this exported as a `.md` file or pushed to your GitHub repository.
-```
 
 
