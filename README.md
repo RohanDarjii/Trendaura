@@ -1,6 +1,6 @@
-# 👗 Tendora – Clothing Brand Website (Django + Python)
+# 👗 Trendaura – Clothing Brand Website (Django + Python)
 
-Tendora is a full-stack e-commerce clothing website developed using Django. It offers a seamless online shopping experience with product browsing, cart management, coupon handling, and user authentication.
+Trendaura is a full-stack e-commerce clothing website developed using Django. It offers a seamless online shopping experience with product browsing, cart management, coupon handling, and user authentication.
 
 ---
 
@@ -35,6 +35,13 @@ Tendora is a full-stack e-commerce clothing website developed using Django. It o
 - Minimum amount and expiration validation
 - Dynamic discount application
 
+### 💸 Payment Integration
+
+- Razorpay Checkout Integration
+- Payment through UPI, Credit/Debit Cards, Net Banking
+- Secure and encrypted transactions
+- Automatic order status update after successful payment
+
 ### 💻 Frontend & UI
 - Responsive design using HTML, CSS, and Bootstrap
 - Mobile-friendly layout
@@ -47,6 +54,7 @@ Tendora is a full-stack e-commerce clothing website developed using Django. It o
   - Categories
   - Coupons
   - Orders
+
 
 ---
 
